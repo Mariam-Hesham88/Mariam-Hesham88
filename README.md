@@ -8,7 +8,7 @@
 - 🎯 Goal: Become a **Frontend Developer Distinctive** in the future  
 
 ## 🛠 Tech Tools I Use
-⚡ HTML | CSS | JS | Bootstrap | TaliwindCSS | Angular | React | Tailwind | Git  
+⚡ HTML | CSS | JS | Bootstrap | Angular | React | Tailwind | Git  
 
 ## 🎨 Fun Section
 ![Profile Views](https://komarev.com/ghpvc/?username=Mariam-Hesham88&style=for-the-badge)  
