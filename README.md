@@ -5,14 +5,11 @@
 ## 💡 Quick Facts
 - 🖌️ I design and build **beautiful, responsive UIs**  
 - 📚 Currently learning **React + Webpack**  
-- 🎯 Goal: Become a **Fullstack Developer** in the future  
+- 🎯 Goal: Become a **Frontend Developer Distinctive** in the future  
 
 ## 🛠 Tech Tools I Use
-⚡ HTML | CSS | JS | Angular | React | Tailwind | Git  
+⚡ HTML | CSS | JS | Bootstrap | TaliwindCSS | Angular | React | Tailwind | Git  
 
 ## 🎨 Fun Section
 ![Profile Views](https://komarev.com/ghpvc/?username=Mariam-Hesham88&style=for-the-badge)  
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)  
-
----
-✨ *"Code. Learn. Grow."* ✨
